@@ -1,14 +1,42 @@
-# hello world!
-welcome to my github 👋 some quick info about me 👇
+# 👋 Hello, World!
 
-### general
--   🧔 gabe mira
--   🏠 hermosillo,son.mx
--   🏢 proud member of the [Syde Team](https://syde.com)
-  
-### professional insterests
--   📊 project management, jira setups & automations, data wrangling, data insights and visulaizations, information technology services and support, exploring wordpress custom themes and plugins
+Welcome to my little corner of GitHub — glad you stopped by! Here's a quick intro about me 👇
 
-### addtional interests
--   🎨 outdoors(walking, hiking, e-scooter), poker(texas hold'em), chess, xbox(pubg), crypto(spectate only) and occasionally doom-scrolling
+---
 
+## 🧑‍💻 About Me
+
+**Name:** Gabe Mira  
+**Location:** Hermosillo, Sonora, MX
+**Team:** Proud member of the [Syde Team](https://syde.com) 💚💚🚀🚀
+
+---
+
+## 💼 Professional Interests
+
+- 🛠️ IT services & user support (with a smile 😄)
+- 🌐 WordPress tinkering (custom themes & plugins)
+- 🧩 Project Management
+- ⚙️ Jira setups & smart automations
+- 📊 Data analytics & Data wrangling
+- 📈 Data insights and Data visualizations 
+
+
+---
+
+## 🎯 Bonus Round: Fun Stuff
+
+- 🥾 Outdoorsy things like walking, hiking, e-scootering (whenever possible)
+- ♠️ Texas Hold’em enthusiast (overall i am still *under)
+- ♟️ Casual chess battles
+- 🎮 PUBG on Xbox (not very good)
+- 🪙 Crypto (🫣 mostly just spectating)
+- 📱 Occasional doom-scrolling
+
+---
+
+## 📫 Let’s Connect
+
+Feel free to peek around — I'm always down to collaborate, share insights, or nerd out over workflows and dashboards.
+
+Thanks for stopping by! 🌟
