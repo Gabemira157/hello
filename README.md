@@ -1,5 +1,5 @@
 # hello world!
-    welcome to my github!
+welcome to my github 👋 some quick info about me 👇
 -   🏢 proud member of the [Syde Team](https://syde.com)
 ### professional insterests
 -   📊 project management, jira setups & automations, data wrangling, data insights and visulaizations, information technology services and support, exploring wordpress custom themes and plugins
