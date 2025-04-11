@@ -14,7 +14,7 @@ Welcome to my little corner of GitHub — glad you stopped by! Here's a quick in
 
 ## 💼 Professional Interests
 
-- 🛠️ IT services & user support (with a smile 😄)
+- 🛠️ IT services & user support
 - 🌐 WordPress tinkering (custom themes & plugins)
 - 🧩 Project Management
 - ⚙️ Jira setups & smart automations
@@ -29,13 +29,11 @@ Welcome to my little corner of GitHub — glad you stopped by! Here's a quick in
 - 🥾 Outdoorsy things like walking, hiking, e-scootering (whenever possible)
 - ♠️ Texas Hold’em enthusiast (overall i am still *under)
 - ♟️ Casual chess battles
-- 🎮 PUBG on Xbox (not very good)
-- 🪙 Crypto (🫣 mostly just spectating)
+- 🎮 PUBG on Xbox (not a sweat tho)
+- 🪙 Crypto (mostly just spectating 🫣)
 - 📱 Occasional doom-scrolling
 
 ---
-
-## 📫 Let’s Connect
 
 Feel free to peek around — I'm always down to collaborate, share insights, or nerd out over workflows and dashboards.
 
