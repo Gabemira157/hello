@@ -7,7 +7,7 @@ Welcome to my little corner of GitHub — glad you stopped by! Here's a quick in
 ## 🧑‍💻 About Me
 
 **Name:** Gabe Mira  
-**Location:** Hermosillo, Sonora, MX
+**Location:** Hermosillo, Sonora, MX  
 **Work:** Proud member of the [Syde Team](https://syde.com) 💚💚🚀🚀
 
 ---
